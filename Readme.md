@@ -1,4 +1,4 @@
-#Audio Enhancement and Denoising using Autoencoders
+# Audio Enhancement and Denoising using Autoencoders
 
 ## Audio Enhancement
 Audio Enhancement services are the scientific process of clarifying audio recordings using non-destructive techniques to preserve speech quality. This is crucial for the trier of fact can make determinations about the events within the recorded evidence. Enhancement techniques are applied to remove sounds like static, furnace and air conditioning fans, hums and other distracting sounds. Therefore, these distracting noises are also known as "unwanted sounds". Then, once we remove the unwanted sounds, we can apply enhancement processes. These enhancement processes will increase the "wanted sound" like speech. 
